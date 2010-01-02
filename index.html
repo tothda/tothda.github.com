@@ -18,7 +18,7 @@ title: Hiperkocka.hu
 
 <div class="recent_posts mar_top">
   <h2 class="mar_hlf_bot bor_bot">Korábbi írások</h2>
-  {% for post in site.posts %}
+  {% for post in site.posts offset:1 %}
     <div class="article">
       <div class="meta dp25">
         {{ post.date | date: "%Y.%m.%d" }}

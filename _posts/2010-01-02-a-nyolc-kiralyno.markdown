@@ -1,5 +1,5 @@
 --- 
-title:      A nyolc királynő
+title:      Clojure és a nyolc királynő
 created_at: 2010-01-02 11:16:41.464954 +01:00
 layout:     post
 --- 
