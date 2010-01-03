@@ -30,7 +30,7 @@ megoldása van.
 Backtracking
 ------------
 
-Az módszert, amivel a nyolc királynő problémát meg szokás oldani,
+A módszert, amivel a nyolc királynő problémát meg szokás oldani,
 [backtracking](http://en.wikipedia.org/wiki/Backtracking)-nek
 hívják. A lényege pontokba szedve röviden a következő:
 
@@ -43,7 +43,7 @@ hívják. A lényege pontokba szedve röviden a következő:
 
 Ha a fenti pontokat a nyolc kiránynő problámra vetítem, akkor a következőket kapom:
 
-* Mind a 96 megoldást szeretném megkapni.
+* Mind a 92 megoldást szeretném megkapni.
 * Az állapotot egy tömb reprezentálja, ami kezdetben üres. Később a tömb i. eleme mondja meg, hogy az i. oszlopban lévő királynő melyik sorban van.
 * Részleges megoldás esetén k oszlophoz rendeltünk királynőt, ahol k < 7 (a számozást nullával kezdjük). Ekkor a követő állapotok halmaza azon állapotokat
   tartalmazza, melyekben már a k + 1-dik oszlopban is van királynő, és ez semelyik előzőt sem támadja.
