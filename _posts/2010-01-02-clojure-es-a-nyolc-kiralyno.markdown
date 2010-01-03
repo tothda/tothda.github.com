@@ -145,7 +145,7 @@ rekurzív `backtrack` függvény végzi. Paramérként egy állapotot kap. Ha
 ez az állapot egy megoldás, akkor visszatér vele, ez a rekurzió egyik
 alapesete (az alapeset - base case - az az ág, amikor a rekurzív függvény nem
 hívja meg magát). Minden más esetben kiszámolja a következő állapotok listáját,
-majd a `mapca`-t mindegyikre rekurzívan meghívja a `backtrack`-et és a
+majd a `mapcat` mindegyikre rekurzívan meghívja a `backtrack`-et és a
 végén konkatenálja az eredményként kapott listákat. A másik alapeset
 az, amikor a következő állapotok listája egy üres lista. Az
 `eight-queens`-nek, ami a végső megoldást szolgáltatja nem kell mást
