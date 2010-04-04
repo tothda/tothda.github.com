@@ -15,15 +15,10 @@ p {
   margin-bottom: 10px; }
 
 pre {
-  background-color: #E4EDFF;
+  background-color: #e4edff;
   padding: 5px;
   font-size: 0.9em;
   overflow: auto; }
-
-code {
-  background-color: #E4EDFF;
-  padding: 2px;
-}
 
 table {
   border-collapse: collapse; }
@@ -112,10 +107,6 @@ h1 a, h2 a, h3 a {
   .gist .gist-file pre {
     padding: 8px 9px; }
 
-dl dt {
-  font-weight: bold;
-  margin-top: 10px; }
-
 #disqus_thread {
   margin-top: 40px; }
 
@@ -124,3 +115,31 @@ dl dt {
 
 .highlighted {
   background-color: yellow; }
+
+dl {
+  float: left;
+  width: 717px;
+  margin: 1em 0;
+  padding: 0;
+  border-bottom: 1px solid;
+  border-color: #dddddd; }
+
+dt {
+  clear: left;
+  float: left;
+  width: 200px;
+  margin: 0;
+  padding: 8px 5px 5px 5px;
+  border-top: 1px solid;
+  font-weight: bold;
+  font-family: monospace;
+  margin-top: 0px;
+  border-color: #dddddd; }
+
+dd {
+  float: left;
+  width: 497px;
+  margin: 0;
+  padding: 5px;
+  border-top: 1px solid;
+  border-color: #dddddd; }
