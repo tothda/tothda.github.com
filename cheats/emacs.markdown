@@ -113,4 +113,7 @@ M-x toggle-truncate-lines
 M-x linum-mode
 : sorszámok mutatása
 
-finish
+M-x locate-library
+: locate lisp files in load-path
+
+finito
