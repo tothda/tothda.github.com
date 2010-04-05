@@ -116,4 +116,7 @@ M-x linum-mode
 M-x locate-library
 : locate lisp files in load-path
 
+M-x find-name-dired
+: find files in directories
+
 finito
