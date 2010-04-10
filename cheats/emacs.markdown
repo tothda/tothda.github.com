@@ -104,6 +104,15 @@ M-x manual-entry
 M-x woman
 : mint az előző, csak nem a man programot használja a formázáshoz + TAB-ra kiegészíti a topic-ot
 
+Fill commands
+-------------
+
+M-q
+: fill current paragraph (fill-paragraph)
+
+M-o M-s
+: center a line
+
 Egyéb
 -----
 
