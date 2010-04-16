@@ -113,6 +113,15 @@ M-q
 M-o M-s
 : center a line
 
+Magit
+-----
+
+C-c C-a
+: make the next commit an amend
+
+P
+: push
+
 Egyéb
 -----
 
