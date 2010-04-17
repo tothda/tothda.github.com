@@ -149,6 +149,30 @@ l
 C-w
 : in history view: copy SHA1 of current commit to kill ring
 
+Textmate mode
+-------------
+
+s-t
+: Go to File
+
+s-T
+: Go to Symbol
+
+s-l
+: Go to Line
+
+s-L
+: Select Line (or expand Selection to select lines)
+
+s-/
+: Comment Line (or Selection/Region)
+
+M-s-return
+: Insert Newline at Line's End
+
+M-s-t
+: File Cache (for Go to File)
+
 Egyéb
 -----
 
