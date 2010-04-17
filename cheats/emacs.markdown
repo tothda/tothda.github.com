@@ -104,6 +104,21 @@ M-x manual-entry
 M-x woman
 : mint az előző, csak nem a man programot használja a formázáshoz + TAB-ra kiegészíti a topic-ot
 
+Keyboard macros
+---------------
+
+C-x (
+: start defining a keyboard macro
+
+C-x )
+: stop defining a keyboard macro
+
+C-x e
+: execute the keyboard macro
+
+C-u 10 C-x e
+: execute 10 times the keyboard macro
+
 Fill commands
 -------------
 
