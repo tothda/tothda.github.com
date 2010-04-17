@@ -137,6 +137,18 @@ C-c C-a
 P
 : push
 
+b
+: switch to different branch
+
+B
+: create and switch to branch
+
+l
+: history
+
+C-w
+: in history view: copy SHA1 of current commit to kill ring
+
 Egyéb
 -----
 
