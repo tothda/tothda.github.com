@@ -149,6 +149,21 @@ l
 C-w
 : in history view: copy SHA1 of current commit to kill ring
 
+f
+: git remote update
+
+F
+: pull
+
+i
+: add to .gitignore
+
+S
+: stage all hunks
+
+X
+: reset work tree and staging are to last most recent commit
+
 Textmate mode
 -------------
 
